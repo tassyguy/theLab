@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:latest
 
 # Locales
 ENV LANGUAGE=en_US.UTF-8
